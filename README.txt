@@ -19,7 +19,11 @@ Após o início do vídeo:
 6. Foi trocada para a branch addMaiana
 7. O arquivo Conflito.txt foi modificado. Foi feito o commit do mesmo.
 8. Posteriormente a troca de branch para master.
-9. Repete o 7
+9. Repete o 7;
+10. Foi simulado o conflito ao executar o comando "$ git merge addMaiana"
+11. Resolvido localmente utilizando o gedit.
+12. Feito novamente o add e commit.
+13. Finalmente feito o push e verificado que o arquivo foi modificado no servidor.
 
 
 
