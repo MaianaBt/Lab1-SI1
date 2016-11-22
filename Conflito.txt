@@ -1,0 +1,4 @@
+Esse arquivo será utilizado para criar a situação de conflito.
+
+
+ESSA FRASE SERÁ MODIFICADA.
