@@ -12,12 +12,14 @@ Para isso será seguido uma sequência de passos, sendo alguns anteriores a grav
 2. Foram feitas as configurações locais com username e login, e adicionado o origin.
 3. Adicionado o arquivo README.txt
 4. Adicionado o arquivo Conflito.txt, inicialmente vazio. Esse arquivo será utilizado para simular o conflito.
+5. Criada a branch addMaiana
 
 Após o início do vídeo:
 
-5.
-6.
-7.
+6. Foi trocada para a branch addMaiana
+7. O arquivo Conflito.txt foi modificado. Foi feito o commit do mesmo.
+8. Posteriormente a troca de branch para master.
+9. Repete o 7
 
 
 
